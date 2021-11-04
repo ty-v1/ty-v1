@@ -1,6 +1,6 @@
 # Hey there
 
-I'm yuya tomoida, a backend engineer from Japan.
+I'm Yuya Tomida, a backend engineer from Japan.
 
 
 ## Languages and Tools
