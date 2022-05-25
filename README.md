@@ -11,6 +11,6 @@ I'm Yuya Tomida, a backend engineer from Japan.
 - React
 - Vue 
 
-##  My github stats
+##  My GitHub stats
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ty-v1&theme=dark)
